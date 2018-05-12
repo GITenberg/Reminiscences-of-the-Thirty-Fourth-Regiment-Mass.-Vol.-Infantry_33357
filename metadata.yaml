@@ -1,0 +1,28 @@
+_repo: Reminiscences-of-the-Thirty-Fourth-Regiment-Mass.-Vol.-Infantry_33357
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33357-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clark, William H.
+    birthdate: 1840
+    gutenberg_agent_id: '36362'
+    url: http://www.gutenberg.org/2009/agents/36362
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33357'
+  lccn: 02014319
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States. Army. Massachusetts Infantry Regiment, 34th (1862-1865)'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+title: Reminiscences of the Thirty-Fourth Regiment, Mass. Vol. Infantry
+url: http://www.gutenberg.org/ebooks/33357
